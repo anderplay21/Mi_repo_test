@@ -1,0 +1,535 @@
+[
+  {
+    "nextPageToken": "WyJ3b3Jrc3BhY2UjMjYxYjU5MWQtZjBhZi00MmJlLWIwYjctOTI5NjAxODQ3NDRjIzAwMCIsImNvbnRhY3QjZmY2ODQ5N2MtZjlkYS00ODk5LTgwMTEtNmU2MWQzMTQxMjQ1Iiwid29ya3NwYWNlIzI2MWI1OTFkLWYwYWYtNDJiZS1iMGI3LTkyOTYwMTg0NzQ0YyMwMDAiLCJjb250YWN0I2ZmNjg0OTdjLWY5ZGEtNDg5OS04MDExLTZlNjFkMzE0MTI0NSJd",
+    "results": [
+      {
+        "id": "fff09224-fccc-4357-817f-b4eb398d1f08",
+        "computedDisplayName": "Leidy Tatiana Perea Palac",
+        "featuredIdentifiers": [
+          {
+            "key": "phonenumber",
+            "value": "+573193867323"
+          },
+          {
+            "key": "emailaddress",
+            "value": "letaperea@gmail.com"
+          }
+        ],
+        "identifierCount": 2,
+        "attributes": {
+          "displayName": "Leidy Tatiana Perea Palac",
+          "emailaddress": [
+            "letaperea@gmail.com"
+          ],
+          "firstName": "Leidy Tatiana",
+          "initialReference": "9ce20f4f-1bd1-4739-89cd-5ff45e09b657",
+          "initialSource": "import",
+          "lastName": "Perea Palacio",
+          "phonenumber": [
+            "+573193867323"
+          ],
+          "reachableIdentifiersForEmailMarketing": [
+            "letaperea@gmail.com"
+          ],
+          "reachableIdentifiersForEmailTransactional": [
+            "letaperea@gmail.com"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573193867323"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573193867323"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573193867323"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573193867323"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573193867323"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573193867323"
+          ],
+          "subscribedEmail": false,
+          "subscribedSms": false,
+          "subscribedWhatsApp": true,
+          "timezone": "America/Bogota"
+        },
+        "listIds": [
+          "22512e13-5cfe-46b7-a727-78fb022924bb",
+          "231c2921-4de9-4a2e-906f-ab92093f7d8f",
+          "3310c6a7-42bb-4581-8b01-aaac8460d0ed",
+          "3c96c19e-441e-482e-bd7a-f7e5bfabb44d",
+          "4d580c92-d9a1-44b8-b4f5-927359092211",
+          "db90382f-f79c-4bfd-b67a-3ccd7ad4e0b3",
+          "eac4138d-df8f-4f3f-b3d4-12410c619063",
+          "ebffffb1-7075-44f9-9366-4a70c287d226",
+          "f0e26890-2a9a-4fd7-9e32-19d5600612a5"
+        ],
+        "createdAt": "2025-03-31T22:33:05.089Z",
+        "updatedAt": "2025-05-09T17:22:27.288Z"
+      },
+      {
+        "id": "ffef7d98-dfa4-44a7-9e31-e58274ccce59",
+        "computedDisplayName": "Valeria",
+        "featuredIdentifiers": [
+          {
+            "key": "emailaddress",
+            "value": "VALERIA18POSADA@gmail.com"
+          },
+          {
+            "key": "phonenumber",
+            "value": "+573187298487"
+          }
+        ],
+        "identifierCount": 2,
+        "attributes": {
+          "emailaddress": [
+            "VALERIA18POSADA@gmail.com"
+          ],
+          "firstName": "Valeria",
+          "initialReference": "601ef3d6-979e-4731-9eb0-a0d009c8aab2",
+          "initialSource": "import",
+          "lastName": "Posada",
+          "phonenumber": [
+            "+573187298487"
+          ],
+          "reachableIdentifiersForEmailMarketing": [
+            "VALERIA18POSADA@gmail.com"
+          ],
+          "reachableIdentifiersForEmailTransactional": [
+            "VALERIA18POSADA@gmail.com"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573187298487"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573187298487"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573187298487"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573187298487"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573187298487"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573187298487"
+          ],
+          "subscribedEmail": false,
+          "subscribedSms": false,
+          "subscribedWhatsApp": true,
+          "timezone": "America/Bogota"
+        },
+        "listIds": [
+          "63ac12e4-e26b-4978-82c5-8ad4b451d809",
+          "82b87180-65a7-42d1-84cc-6cb59e5a829d",
+          "a31e6db2-bad4-4d8c-8ba5-4d49938626a1",
+          "ee579dc9-4cf8-41cc-b234-ae7b95446395",
+          "fee8093a-3bdf-48a7-b26b-ec5cac163776"
+        ],
+        "createdAt": "2025-03-27T17:33:24.391Z",
+        "updatedAt": "2025-04-24T19:14:30.742Z"
+      },
+      {
+        "id": "ffbccd89-2a78-44eb-9518-54356dd087e3",
+        "computedDisplayName": "Geraldin",
+        "featuredIdentifiers": [
+          {
+            "key": "phonenumber",
+            "value": "+573144512209"
+          },
+          {
+            "key": "emailaddress",
+            "value": "geralrb080806@gmail.com"
+          }
+        ],
+        "identifierCount": 2,
+        "attributes": {
+          "emailaddress": [
+            "geralrb080806@gmail.com"
+          ],
+          "firstName": "Geraldin",
+          "initialReference": "31805cec-6336-48b2-b47d-16971b701405",
+          "initialSource": "import",
+          "lastName": "R",
+          "phonenumber": [
+            "+573144512209"
+          ],
+          "reachableIdentifiersForEmailMarketing": [
+            "geralrb080806@gmail.com"
+          ],
+          "reachableIdentifiersForEmailTransactional": [
+            "geralrb080806@gmail.com"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573144512209"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573144512209"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573144512209"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573144512209"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573144512209"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573144512209"
+          ],
+          "subscribedEmail": false,
+          "subscribedSms": false,
+          "subscribedWhatsApp": true,
+          "timezone": "America/Bogota"
+        },
+        "listIds": [
+          "22512e13-5cfe-46b7-a727-78fb022924bb",
+          "231c2921-4de9-4a2e-906f-ab92093f7d8f",
+          "32c2ceea-ad63-47e1-b6dc-947d73778fae"
+        ],
+        "createdAt": "2025-04-15T14:45:16.11Z",
+        "updatedAt": "2025-05-08T14:45:13.732Z"
+      },
+      {
+        "id": "ffba3c5e-c28b-4690-b2ad-226326b2f097",
+        "computedDisplayName": "+573217911501",
+        "featuredIdentifiers": [
+          {
+            "key": "phonenumber",
+            "value": "+573217911501"
+          }
+        ],
+        "identifierCount": 1,
+        "attributes": {
+          "initialReference": "a1b0f1ed-7a41-4986-9440-5c3649edc6f5",
+          "initialSource": "channels",
+          "phonenumber": [
+            "+573217911501"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573217911501"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573217911501"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573217911501"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573217911501"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573217911501"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573217911501"
+          ],
+          "timezone": "America/Bogota"
+        },
+        "createdAt": "2025-05-07T22:28:47.429Z",
+        "updatedAt": "2025-05-07T22:28:47.52Z"
+      },
+      {
+        "id": "ffb5b10d-cf1c-446e-a9ae-fe34c013accc",
+        "computedDisplayName": "karen",
+        "featuredIdentifiers": [
+          {
+            "key": "phonenumber",
+            "value": "+573184230914"
+          },
+          {
+            "key": "emailaddress",
+            "value": "kaarenwendy@gmail.com"
+          }
+        ],
+        "identifierCount": 2,
+        "attributes": {
+          "emailaddress": [
+            "kaarenwendy@gmail.com"
+          ],
+          "firstName": "karen",
+          "initialReference": "5dacabc3-c953-4404-822b-67db52a904e3",
+          "initialSource": "import",
+          "lastName": "Herrera",
+          "phonenumber": [
+            "+573184230914"
+          ],
+          "reachableIdentifiersForEmailMarketing": [
+            "kaarenwendy@gmail.com"
+          ],
+          "reachableIdentifiersForEmailTransactional": [
+            "kaarenwendy@gmail.com"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573184230914"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573184230914"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573184230914"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573184230914"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573184230914"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573184230914"
+          ],
+          "subscribedEmail": false,
+          "subscribedSms": false,
+          "subscribedWhatsApp": true,
+          "timezone": "America/Bogota"
+        },
+        "listIds": [
+          "22512e13-5cfe-46b7-a727-78fb022924bb",
+          "229947cd-e346-4037-9c98-0feb47ff09a3",
+          "231c2921-4de9-4a2e-906f-ab92093f7d8f",
+          "306c1b30-508c-402e-8805-16d37171966d",
+          "3310c6a7-42bb-4581-8b01-aaac8460d0ed",
+          "3c96c19e-441e-482e-bd7a-f7e5bfabb44d",
+          "7362d739-277b-4762-b416-d54b256617c8",
+          "ebffffb1-7075-44f9-9366-4a70c287d226"
+        ],
+        "createdAt": "2025-04-10T14:37:02.874Z",
+        "updatedAt": "2025-05-02T21:52:49.186Z"
+      },
+      {
+        "id": "ff9a8ec3-c8be-4481-9837-3dfbfb6615ab",
+        "computedDisplayName": "Juli López",
+        "featuredIdentifiers": [
+          {
+            "key": "phonenumber",
+            "value": "+573108116650"
+          }
+        ],
+        "identifierCount": 1,
+        "attributes": {
+          "displayName": "Juli López",
+          "firstName": "Juliana",
+          "initialReference": "a1b0f1ed-7a41-4986-9440-5c3649edc6f5",
+          "initialSource": "channels",
+          "lastName": "Lopez",
+          "phonenumber": [
+            "+573108116650"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573108116650"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573108116650"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573108116650"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573108116650"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573108116650"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573108116650"
+          ],
+          "subscribedEmail": false,
+          "subscribedSms": false,
+          "subscribedWhatsApp": true,
+          "timezone": "America/Bogota"
+        },
+        "listIds": [
+          "22512e13-5cfe-46b7-a727-78fb022924bb",
+          "457a18e9-adf8-4866-87be-851b6f3dd333"
+        ],
+        "createdAt": "2025-03-31T20:16:25.618Z",
+        "updatedAt": "2025-05-10T13:12:21.271Z"
+      },
+      {
+        "id": "ff88d494-d7f6-423c-bae6-554b5f4f548c",
+        "computedDisplayName": "Mary",
+        "featuredIdentifiers": [
+          {
+            "key": "phonenumber",
+            "value": "+573502090367"
+          }
+        ],
+        "identifierCount": 1,
+        "attributes": {
+          "firstName": "Mary",
+          "initialReference": "9ce20f4f-1bd1-4739-89cd-5ff45e09b657",
+          "initialSource": "import",
+          "lastName": "Montoya",
+          "phonenumber": [
+            "+573502090367"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573502090367"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573502090367"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573502090367"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573502090367"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573502090367"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573502090367"
+          ],
+          "subscribedEmail": false,
+          "subscribedSms": false,
+          "subscribedWhatsApp": true,
+          "timezone": "America/Bogota"
+        },
+        "listIds": [
+          "4d580c92-d9a1-44b8-b4f5-927359092211"
+        ],
+        "createdAt": "2025-03-31T22:33:09.141Z",
+        "updatedAt": "2025-03-31T22:33:09.213Z"
+      },
+      {
+        "id": "ff726659-1078-4dfd-80e8-a1628797b174",
+        "computedDisplayName": "Deysi",
+        "featuredIdentifiers": [
+          {
+            "key": "phonenumber",
+            "value": "+573134651787"
+          }
+        ],
+        "identifierCount": 1,
+        "attributes": {
+          "firstName": "Deysi",
+          "initialReference": "4807e00e-f926-40da-a91e-06663dd6d868",
+          "initialSource": "import",
+          "lastName": "Yohana",
+          "phonenumber": [
+            "+573134651787"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573134651787"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573134651787"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573134651787"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573134651787"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573134651787"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573134651787"
+          ],
+          "subscribedEmail": false,
+          "subscribedSms": false,
+          "subscribedWhatsApp": true,
+          "timezone": "America/Bogota"
+        },
+        "listIds": [
+          "22512e13-5cfe-46b7-a727-78fb022924bb",
+          "229947cd-e346-4037-9c98-0feb47ff09a3",
+          "306c1b30-508c-402e-8805-16d37171966d",
+          "3310c6a7-42bb-4581-8b01-aaac8460d0ed",
+          "3c96c19e-441e-482e-bd7a-f7e5bfabb44d",
+          "68f69a95-6a38-4776-bb1c-49430f0e2bcf",
+          "6e03b5e2-2685-4dc3-be93-c7d9fe4afd05",
+          "7362d739-277b-4762-b416-d54b256617c8",
+          "ebffffb1-7075-44f9-9366-4a70c287d226",
+          "f0919847-b60d-4ce9-bca6-baf482d4e00a",
+          "fd7d957c-ad95-4ca2-a38a-9dc0abdbc111"
+        ],
+        "createdAt": "2025-03-29T16:32:18.07Z",
+        "updatedAt": "2025-05-06T15:33:39.51Z"
+      },
+      {
+        "id": "ff69097d-4416-4fb5-99f4-d38d907c500c",
+        "computedDisplayName": "lismari.lisx@hotmail.com",
+        "featuredIdentifiers": [
+          {
+            "key": "emailaddress",
+            "value": "lismari.lisx@hotmail.com"
+          }
+        ],
+        "identifierCount": 1,
+        "attributes": {
+          "emailaddress": [
+            "lismari.lisx@hotmail.com"
+          ],
+          "initialReference": "8bc12ac1-033d-4a87-bfd5-fc2e99cde2bc",
+          "initialSource": "channels",
+          "reachableIdentifiersForEmailMarketing": [
+            "lismari.lisx@hotmail.com"
+          ],
+          "reachableIdentifiersForEmailTransactional": [
+            "lismari.lisx@hotmail.com"
+          ],
+          "timezone": "America/Bogota"
+        },
+        "createdAt": "2025-04-07T14:04:01.798Z",
+        "updatedAt": "2025-04-07T14:04:02.055Z"
+      },
+      {
+        "id": "ff68497c-f9da-4899-8011-6e61d3141245",
+        "computedDisplayName": "Romer",
+        "featuredIdentifiers": [
+          {
+            "key": "phonenumber",
+            "value": "+573123584959"
+          }
+        ],
+        "identifierCount": 1,
+        "attributes": {
+          "firstName": "Romer",
+          "initialReference": "60d8baa0-1d44-4084-92bc-0a8d6cb1ce61",
+          "initialSource": "import",
+          "lastName": "Montoya",
+          "phonenumber": [
+            "+573123584959"
+          ],
+          "reachableIdentifiersForRcsMarketing": [
+            "+573123584959"
+          ],
+          "reachableIdentifiersForRcsTransactional": [
+            "+573123584959"
+          ],
+          "reachableIdentifiersForSmsMarketing": [
+            "+573123584959"
+          ],
+          "reachableIdentifiersForSmsTransactional": [
+            "+573123584959"
+          ],
+          "reachableIdentifiersForWhatsAppMarketing": [
+            "+573123584959"
+          ],
+          "reachableIdentifiersForWhatsAppTransactional": [
+            "+573123584959"
+          ],
+          "subscribedEmail": false,
+          "subscribedSms": false,
+          "subscribedWhatsApp": true,
+          "timezone": "America/Bogota"
+        },
+        "listIds": [
+          "0f0d6423-acf8-4ba9-9757-e84cad705a75"
+        ],
+        "createdAt": "2025-05-09T20:08:59.34Z",
+        "updatedAt": "2025-05-09T20:08:59.482Z"
+      }
+    ]
+  }
+]
