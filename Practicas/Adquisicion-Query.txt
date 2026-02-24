@@ -1,0 +1,40 @@
+SELECT * FROM dbkdhc4hwzxlgz.adquisicion_test;
+WITH pagos_con_mes AS (
+    SELECT
+        email,
+        date_approved AS fecha_pago,
+        DATE_FORMAT(date_approved, '%Y-%m-01') AS mes_pago
+    FROM adquisicion_test
+), 
+primer_pago AS (
+    SELECT
+        email,
+        MIN(DATE_FORMAT(date_approved, '%Y-%m-01')) AS primer_mes_pago
+    FROM adquisicion_test
+    GROUP BY email
+), 
+pagos_previos AS (
+    SELECT
+        p1.email,
+        p1.mes_pago,
+        p1.fecha_pago,
+        MAX(p2.mes_pago) AS ultimo_mes_anterior
+    FROM pagos_con_mes p1
+    LEFT JOIN pagos_con_mes p2 
+        ON p1.email = p2.email
+        AND p2.mes_pago < p1.mes_pago
+    GROUP BY p1.email, p1.mes_pago, p1.fecha_pago
+)
+SELECT
+    p.email,
+    p.fecha_pago,
+    p.mes_pago,
+    CASE
+        WHEN p.mes_pago = pp.primer_mes_pago THEN 'Nuevo'
+        WHEN DATEDIFF(p.mes_pago, p.ultimo_mes_anterior) >= 120 THEN 'Reactivado'
+        ELSE 'Recurrente'
+    END AS tipo_cliente
+FROM pagos_previos p
+JOIN primer_pago pp
+    ON p.email = pp.email
+ORDER BY p.email, p.mes_pago;
