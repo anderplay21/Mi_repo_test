@@ -19,7 +19,7 @@ pagos_previos AS (
         p1.mes_pago,
         p1.fecha_pago,
         MAX(p2.mes_pago) AS ultimo_mes_anterior
-    FROM pagos_con_mes p1
+    FROM pagos_con_mes p1 #tabla de consulta
     LEFT JOIN pagos_con_mes p2 
         ON p1.email = p2.email
         AND p2.mes_pago < p1.mes_pago
