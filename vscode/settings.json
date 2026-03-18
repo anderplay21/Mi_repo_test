@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "venv",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true
+}
